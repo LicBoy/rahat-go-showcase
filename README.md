@@ -4,7 +4,7 @@
 
 **Rahat Go** is a Telegram Mini App and bot that runs a small bakery end to end. Customers browse the menu, order for pickup or delivery and pay by QR without leaving Telegram. Staff use the same app as a CRM to process orders, sell walk-ins, manage the menu, track stock and see what every dish earns.
 
-I built it for a friend's bakery in Da Nang, Vietnam, and shaped every feature around how his team actually works. The staff used it for **3+ months** to run orders, inventory and daily stock.
+I built it for a friend's bakery in Da Nang, Vietnam, which makes Russian and Tatar home-style baking (ochpochmak, syrniki, rye breads, cottage-cheese desserts), and shaped every feature around how his team actually works. The staff used it for **3+ months** to run orders, inventory and daily stock.
 
 > **The source code is private.** This repository is a showcase: what the app does, how it's built, and how I built it with an AI-agentic workflow. A live demo is available on request: [t.me/Licman](https://t.me/Licman).
 
@@ -160,7 +160,7 @@ My job was the part AI can't do alone: talking to the owner and turning his day 
 
 ## About the screenshots
 
-The screenshots come from a local copy of the app running in a browser with **generated demo data**: about five weeks of orders, stock and recipes with realistic Vietnamese prices. No real customer data is shown. Product photos are placeholders ("Coming soon").
+The screenshots come from a local copy of the app running in a browser. **The menu and photos are real**: the bakery's 56 dishes with their actual prices. **Orders, stock and recipe costs are generated** (about five weeks of activity with realistic Da Nang ingredient prices), so no real customer or sales data is shown.
 
 ---
 
