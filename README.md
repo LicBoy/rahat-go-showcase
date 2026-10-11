@@ -8,6 +8,13 @@ I built it for a friend's bakery in Da Nang, Vietnam, which makes Russian and Ta
 
 > **The source code is private.** This repository is a showcase: what the app does, how it's built, and how I built it with an AI-agentic workflow. A live demo is available on request: [t.me/Licman](https://t.me/Licman).
 
+
+## Demo
+
+![Rahat Go walkthrough: customer ordering, staff processing, analytics and stock](docs/rahat-go-demo.gif)
+
+An 80-second walkthrough: a customer orders in Telegram, staff approve the order, then the analytics, the per-dish price playground and daily stock. [Full-quality MP4](docs/rahat-go-demo.mp4).
+
 ---
 
 ## At a glance
