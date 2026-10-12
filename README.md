@@ -6,7 +6,7 @@
 
 I built it for a friend's bakery in Da Nang, Vietnam, which makes Russian and Tatar home-style baking (ochpochmak, syrniki, rye breads, cottage-cheese desserts), and shaped every feature around how his team actually works. The staff used it for **3+ months** to run orders, inventory and daily stock.
 
-> **The source code is private.** This repository is a showcase: what the app does, how it's built, and how I built it with an AI-agentic workflow. A live demo is available on request: [t.me/Licman](https://t.me/Licman).
+> **The source code is private.** This repository is a showcase: what the app does, how it's built, and how I built it with an AI-agentic workflow. Try an interactive version in the browser at **[licman.dev](https://licman.dev/#rahat)**, or ask for a live demo: [t.me/Licman](https://t.me/Licman).
 
 
 ## Demo
@@ -175,6 +175,6 @@ The screenshots come from a local copy of the app running in a browser. **The me
 
 **Ruslan Akhmetvaleev**: QA automation engineer (fintech) who also builds apps for small businesses.
 
-[LinkedIn](https://www.linkedin.com/in/licman) · [GitHub](https://github.com/LicBoy) · [Telegram](https://t.me/Licman)
+[licman.dev](https://licman.dev) · [LinkedIn](https://www.linkedin.com/in/licman) · [GitHub](https://github.com/LicBoy) · [Telegram](https://t.me/Licman)
 
 Want something like this for your café, bakery or shop? Get in touch.
